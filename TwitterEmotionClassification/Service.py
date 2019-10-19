@@ -4,6 +4,10 @@ import subprocess
 import os, sys, string, time, socket, signal
 import servicemanager
 
+
+#Reading xml configuration file 
+#from xml.dom import minidom
+
 class Service (win32serviceutil.ServiceFramework):
     _svc_name_ = "Service"
     _svc_display_name_ = "Service"

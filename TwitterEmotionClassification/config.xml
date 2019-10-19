@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<userTweetInformation>
+	<consumerKey>hello</consumerKey>
+	<comsumerSecret>comsumersecret</comsumerSecret>
+	<accessKey>accesskey</accessKey>
+	<accessSecret>accessSecret</accessSecret>
+</userTweetInformation>
+<!--<outputData>
+	<fileName></fileName>
+</outputData>
+-->

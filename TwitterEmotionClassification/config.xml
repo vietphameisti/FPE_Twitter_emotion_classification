@@ -4,6 +4,11 @@
 	<comsumerSecret>comsumersecret</comsumerSecret>
 	<accessKey>accesskey</accessKey>
 	<accessSecret>accessSecret</accessSecret>
+	<searchWords>Hong Kong</searchWords>
+	<dateSince>2019-10-01</dateSince>
+	<nbTweets>10</nbTweets>
+	<lang>en</lang>
+
 </userTweetInformation>
 <!--<outputData>
 	<fileName></fileName>

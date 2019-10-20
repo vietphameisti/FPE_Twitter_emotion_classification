@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="TwitterClient.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Service.py" />
     <Compile Include="TwitterEmotionClassification.py" />
   </ItemGroup>

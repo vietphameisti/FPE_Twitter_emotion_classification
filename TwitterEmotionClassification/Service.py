@@ -91,6 +91,7 @@ class Service (win32serviceutil.ServiceFramework):
                     date_since=tweetconfig.getElementsByTagName('dateSince')[0].childNodes[0].nodeValue
                     nb_tweets=tweetconfig.getElementsByTagName('nbTweets')[0].childNodes[0].nodeValue
                     language=tweetconfig.getElementsByTagName('lang')[0].childNodes[0].nodeValue
+                    new_search=tweetconfig.getElementsByTagName('newSearch')[0].childNodes[0].nodeValue
                     
                     auth = tweepy.OAuthHandler(consumKey, comsumerSecret)
                     auth.set_access_token(accessKey, accessSecret)

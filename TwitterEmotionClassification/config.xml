@@ -8,6 +8,7 @@
 	<dateSince>2019-10-01</dateSince>
 	<nbTweets>10</nbTweets>
 	<lang>en</lang>
+	<newSearch>hongkong -filter:retweets</newSearch>
 
 </userTweetInformation>
 <!--<outputData>

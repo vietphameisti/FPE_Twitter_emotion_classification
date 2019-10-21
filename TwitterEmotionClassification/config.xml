@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <userTweetInformation>
-	<consumerKey>hello</consumerKey>
-	<comsumerSecret>comsumersecret</comsumerSecret>
-	<accessKey>accesskey</accessKey>
-	<accessSecret>accessSecret</accessSecret>
+	<consumerKey>MlbpfXnAwJeQzQlRYK0dKJ6nB</consumerKey>
+	<comsumerSecret>cTZLfoM7xOHpFjSfzUW0Ff0AsKPNsqEOhjMNiMbNW6Eg0NZpWr</comsumerSecret>
+	<accessKey>1179886074614689793-VLHbcHpSJoXkml9wVMqd9gIcSs4zMS</accessKey>
+	<accessSecret>Vnpf7cZp2uIUsdDDV6egSHdxDQXyCHf7INdKVa8Uqs2H4</accessSecret>
 	<searchWords>Hong Kong</searchWords>
 	<dateSince>2019-10-01</dateSince>
 	<nbTweets>10</nbTweets>
